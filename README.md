@@ -21,11 +21,9 @@ Uma página simples e responsiva criada em HTML e CSS, destacando cuidados e car
 
 Versão Desktop 🖥️    <img src="https://github.com/josue28jrd/we-care-about-pet/blob/master/img/Computer.png" width="500" height="300"/> 
 
-Versão Mobile 📱   <img src="https://github.com/josue28jrd/we-care-about-pet/blob/master/img/mobile.png" width="150" height="300"/>
+Versão Mobile 📱   
+<img src="https://github.com/josue28jrd/we-care-about-pet/blob/master/img/mobile.png" width="150" height="300"/>
 
-🤝 Conecte-se comigo
-
-LinkedIn | Portfólio
 
 💡 Dúvidas ou sugestões? Deixe um comentário ou abra uma issue no repositório!
 
