@@ -6,7 +6,7 @@ We Care About Pets
 Uma página simples e responsiva criada em HTML e CSS, destacando cuidados e carinho com os animais de estimação.
 
 🔗 Confira o projeto online:
-👉 We Care About Pets
+👉 [We Care About Pets](https://dev-josue-morais.github.io/we-care-about-pet/)
 
 🛠️ Tecnologias Utilizadas
 	•	HTML5: Estruturação da página.
@@ -19,10 +19,10 @@ Uma página simples e responsiva criada em HTML e CSS, destacando cuidados e car
 
 📸 Capturas de Tela
 
-Versão Desktop 🖥️    <img src="https://github.com/josue28jrd/we-care-about-pet/blob/master/img/Computer.png" width="500" height="300"/> 
+Versão Desktop 🖥️    <img src="https://github.com/dev-josue-morais/we-care-about-pet/blob/master/img/Computer.png" width="500" height="300"/> 
 
 Versão Mobile 📱   
-<img src="https://github.com/josue28jrd/we-care-about-pet/blob/master/img/mobile.png" width="150" height="300"/>
+<img src="https://github.com/dev-josue-morais/we-care-about-pet/blob/master/img/mobile.png" width="150" height="300"/>
 
 
 💡 Dúvidas ou sugestões? Deixe um comentário ou abra uma issue no repositório!
